@@ -72,15 +72,15 @@ accuracy
 
 ## Output:
 
-<img width="417" alt="exp9 op1" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/2fbc0e74-567b-4826-aac3-2332ca8a77c2">
+<img width="417" alt="exp9 op1" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/2fbc0e74-567b-4826-aac3-2332ca8a77c2"><br>
 
-<img width="479" alt="exp9 op2" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/bf634857-f03a-41c7-b180-06a96aebcb4f">
+<img width="479" alt="exp9 op2" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/bf634857-f03a-41c7-b180-06a96aebcb4f"><br>
 
-<img width="287" alt="exp9 op3" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/1cb806db-572e-4fd3-9afd-3f6f4c410c09">
+<img width="287" alt="exp9 op3" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/1cb806db-572e-4fd3-9afd-3f6f4c410c09"><br>
 
-<img width="157" alt="exp9 op4" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/e26c2a3c-0cf7-45c0-9c91-6e63cb4da144">
+<img width="157" alt="exp9 op4" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/e26c2a3c-0cf7-45c0-9c91-6e63cb4da144"><br>
 
-<img width="482" alt="exp9 op5" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/ab48119f-5204-4162-8808-f34fcf7cb9ab">
+<img width="482" alt="exp9 op5" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/ab48119f-5204-4162-8808-f34fcf7cb9ab"><br>
 
 <img width="285" alt="exp9 op6" src="https://github.com/divvisha/Implementation-of-SVM-For-Spam-Mail-Detection/assets/127508123/2eaf0e8f-bc09-4cca-baf0-03470c62d67a">
 
